@@ -8,7 +8,7 @@ export const Dashboard: React.FC = () => {
   return (
     <div className="dashboard-container">
       <div className="dashboard-content">
-        Hello! You're logged in with <strong>{role}</strong> permissions.
+      Hallo! Je bent ingelogd met <strong>{role}</strong> rechten.
       </div>
     </div>
   );
